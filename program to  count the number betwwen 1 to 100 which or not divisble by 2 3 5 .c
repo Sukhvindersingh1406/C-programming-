@@ -1,20 +1,4 @@
-/*#include<stdio.h>
-void main()
-{
-    int i,f=0, s=1, n;
-    scanf("%d",&n);
-    for(i=0;i<=n;i++)
-    {
-        printf("%d\n",f);
-        int next=f+s;//0+1=1
-        f=s;
-        s=next;
-        i+=1;
 
-    }
-    return 0;
-
-}*/
 #include<stdio.h>
 int main ()
 {
